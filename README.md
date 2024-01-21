@@ -1,4 +1,4 @@
-# reat-weekly Home Work
+# react-weekly Home Work
 
 야무샘의 리액트 강의, 주간 숙제
 - [x] JSX 또는 React API를 사용해, Vanilla 프로젝트에서 구현한 
